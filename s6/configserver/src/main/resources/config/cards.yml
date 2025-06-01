@@ -1,0 +1,14 @@
+build:
+  version:
+    "3.0"
+
+
+
+cards:
+  message: "Welcome to YesBank cards DEV APIs"
+  contactDetails:
+    name: "Amit Shah - DEV Manager"
+    email: "shah@gmail.com"
+  onCallSupport:
+    - +(91) 987-1234-789
+    - +(91) 987-1235-789

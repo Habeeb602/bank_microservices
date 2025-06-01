@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+
+cards:
+  message: "Welcome to YesBank cards PROD APIs"
+  contactDetails:
+    name: "Nassim Shah - PROD Manager"
+    email: "shah@gmail.com"
+  onCallSupport:
+    - +(91) 987-1234-789
+    - +(91) 987-1235-789

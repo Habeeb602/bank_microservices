@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+
+accounts:
+  message: "Welcome to YesBank accounts APIs"
+  contactDetails:
+    name: "Habeeb Rahman - Lead Developer"
+    email: "habeeb@gmail.com"
+  onCallSupport:
+    - +(91) 987-1234-789
+    - +(91) 987-1235-789
