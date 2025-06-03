@@ -1,0 +1,13 @@
+build:
+  version: "2.0"
+
+
+
+cards:
+  message: "Welcome to YesBank cards QA APIs"
+  contactDetails:
+    name: "Bahadur Shah - QA Manager"
+    email: "shah@gmail.com"
+  onCallSupport:
+    - +(91) 987-1234-789
+    - +(91) 987-1235-789

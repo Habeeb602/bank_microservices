@@ -1,0 +1,14 @@
+build:
+  version:
+    "3.0"
+
+
+
+loans:
+  message: "Welcome to YesBank loans DEV APIs"
+  contactDetails:
+    name: "Rahul Kumar - DEV Manager"
+    email: "kumar@gmail.com"
+  onCallSupport:
+    - +(91) 987-1234-789
+    - +(91) 987-1235-789

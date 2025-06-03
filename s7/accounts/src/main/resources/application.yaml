@@ -1,0 +1,35 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: accounts
+  devtools:
+    livereload:
+      port: 35730
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3307/accountsdb
+    username: root
+    password: 'root'
+  jpa:
+    show-sql: true
+  sql:
+    init:
+      mode: always
+  profiles:
+    active: prod
+  config:
+    import: "optional:configserver:http://localhost:8071/"
+#  rabbitmq:
+#    host: "localhost"
+#    port: 5672
+#    username: "guest"
+#    password: "guest"
+
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

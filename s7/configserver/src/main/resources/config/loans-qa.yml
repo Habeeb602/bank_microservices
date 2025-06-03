@@ -1,0 +1,20 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+
+
+build:
+  version: "2.0"
+
+
+
+loans:
+  message: "Welcome to YesBank cards QA APIs"
+  contactDetails:
+    name: "Dinesh Kumar - QA Manager"
+    email: "kumar@gmail.com"
+  onCallSupport:
+    - +(91) 987-1234-789
+    - +(91) 987-1235-789
