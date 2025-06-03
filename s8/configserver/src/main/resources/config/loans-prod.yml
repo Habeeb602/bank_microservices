@@ -1,0 +1,18 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+
+build:
+  version: "1.0"
+
+
+loans:
+  message: "Welcome to YesBank loans PROD APIs"
+  contactDetails:
+    name: "Shiva Kumar - PROD Manager"
+    email: "kumar@gmail.com"
+  onCallSupport:
+    - +(91) 987-1234-789
+    - +(91) 987-1235-789

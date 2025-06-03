@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to YesBank accounts Prod APIs"
+  contactDetails:
+    name: "Abdul Rahman - Production Manager"
+    email: "abdul@gmail.com"
+  onCallSupport:
+    - +(91) 987-1234-789
+    - +(91) 987-1235-789
